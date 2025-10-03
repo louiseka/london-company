@@ -1,4 +1,6 @@
-# Converting Figma Design to basic HTML and CSS website - Week 2 – TechNative Digital's Software Development: Tech Finishing School
+# Converting Figma Design to basic HTML and CSS website
+
+Week 2 – TechNative Digital's Software Development: Tech Finishing School
 
 ## Description
 
